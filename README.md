@@ -9,7 +9,7 @@ The Color Generator App is a web application that allows users to generate a lis
 
 ### Getting Started
 
-1. Clone the repository: git clone https://github.com/abdabhasan/colorGenerator.git
+1. Clone the repository: git clone https://github.com/abdabhasan/colorsGenerator.git
 1. Navigate to the project directory: cd colorGenerator
 1. Run `npm install`
 1. Run `npm run dev` to open the project locally
