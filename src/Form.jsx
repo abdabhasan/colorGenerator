@@ -19,7 +19,7 @@ const Form = ({ addColor }) => {
           type='text'
           value={color}
           onChange={(e) => setColor(e.target.value)}
-          placeholder='#f15025'
+          placeholder='#2ec27e'
         />
         <button className='btn' type='submit' style={{ background: color }}>
           submit
